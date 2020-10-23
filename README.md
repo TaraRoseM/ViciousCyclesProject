@@ -1,2 +1,2 @@
 # ViciousCyclesProject
-Vicious Cycles Project
+Vicious Cycles Project for Web140 class
