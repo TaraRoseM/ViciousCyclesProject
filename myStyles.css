@@ -1,0 +1,16 @@
+header {
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;     
+}
+
+body {
+        width: 70%;
+        margin: 0 auto;
+        font-family: Tahoma, serif;
+        background-color:#F9FAE3;
+}
+ ul {
+     font-style: italic;   
+ }
+    
