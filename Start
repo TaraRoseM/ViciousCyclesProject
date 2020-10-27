@@ -3,11 +3,15 @@
 
 <head> 
 <title>Vicious Cycles</title>
+<h1>Vicious Cycles</h1>
 <link rel="stylesheet" type"text/css" href="myStyles.css" />
 </head>
 
 <body>
-Vicious Cycles
+
+
+<img src="images/pexels-gábor-kárpáti-109853.jpg"
+alt="Picture of bicycle wheel">
 </body>
 
 <footer>
