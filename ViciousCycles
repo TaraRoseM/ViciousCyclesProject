@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+
+<head> 
+<title>Vicious Cycles</title>
+<h1>Vicious Cycles</h1>
+<link rel="stylesheet" type"text/css" href="myStyles.css" />
+</head>
+
+<body>
+
+
+<img src="images/pexels-gábor-kárpáti-109853.jpg"
+alt="Picture of bicycle wheel">
+
+<a href="#AboutUs">About Us</a><br>
+<a href="#OurProducts">Our Products</a><br>
+<a href="#CustomerService">Customer Service</a><br>
+<a href="#HowCanIBuy">How Can I Buy?</a><br>
+<a href="#ContactUs">Contact Us</a><br>
+
+
+</body>
+
+<footer>
+Visit us on Social Media! <br>
+
+<img src="images/Twitter_Social_Icon_Square_Color.png" 
+alt="Twitter Icon"
+style="width:100px;height:100px;">
+<img src="images/f_logo_RGB-Blue_512.png"
+alt="Facebook Icon"
+style="width:100px;height:100px;">   
+&copy; 2020 Vicious Cycles 
+</footer>
